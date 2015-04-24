@@ -18,7 +18,7 @@ There are 2 sections in this repository :
 
 ### Computer setup
 Your computer has already been setup and contains all the tools you need to complete this test : 
-- git (command line or you can also access through a right click and do `git bash here`)
+- git (accessible through command line or you can also access through a right click in explorer and doing `git bash here`)
 - git gui (if your are more comfortable using a gui, accessible by right click in a folder and doing `git gui here`)
 - maven (type mvn in cmd)
 - java
@@ -41,7 +41,7 @@ You must first build a simple UI with the following elements :
 - a left navigation menu with the following elements : 
 	- Issue list local
 	- Issue list remote
-	- Page 3
+
 You need to plugin the necessary states with UI router to allow navigation to these pages.
 Just put dummy text in each page for now.
 - a footer that should contain the following elements : 
